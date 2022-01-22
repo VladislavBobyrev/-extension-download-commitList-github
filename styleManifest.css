@@ -1,0 +1,12 @@
+.manifestButton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background: rgb(44, 11, 190);
+  text-transform: uppercase;
+  cursor: pointer;
+width: 100%;
+  height: 32px;
+  padding: 0px 10px;
+}
